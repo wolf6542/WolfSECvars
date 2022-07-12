@@ -49,7 +49,7 @@
 | cg_chatY | `integer` | `N/A` | `385` | Chat position in the vertical axis |
 | cg_notifyTextY | `integer` | `N/A` | `42` | Kill feed position in the vertical axis |
 | cg_chatAlpha | `float` | `0.0-1.0` | `0.33` | Chat opacity |
-| cg_chatBackgroundColor | `string` | `N/A` | `""` | Chat background color |
+| cg_chatBackgroundColor | `string` | `N/A` | `default` | Chat background color |
 | cg_chatBeep | `bitflag` | `0-3` | `0` | Chat notification sounds. `1` - global chat only, `2` - team chat only, `3` - both |
 | cg_statsWindowX | `integer` | `N/A` | `5` | /+stats window position in the horizontal axis |
 | cg_statsWindowY | `integer` | `N/A` | `200` | /+stats window position in the vertical axis |
