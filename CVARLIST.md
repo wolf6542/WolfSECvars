@@ -21,7 +21,6 @@
 | cycle | `/bind X "cycle cg_drawcrosshair 0 10 1"` | Cycle through cvar values. |
 
 # Cvars
-# Client  
 #### Engine/renderer (cl/r)
 | Cvar | Argument type | Value range | Default | Description |
 |---------|---------------|-------------|---------|-------------|
