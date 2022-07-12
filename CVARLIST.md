@@ -41,8 +41,6 @@
 |---------|---------------|-------------|---------|-------------|
 | cg_drawSpectatorState | `integer` | `0-1` | `1` | Draw "SPECTATOR" state |
 | cg_drawClock | `integer` | `0-1` | `1` | Draw local time |
-| cg_autoAction | `bitflag` | `0-3` | `0` | Auto actions. `1` - take screenshot, `2` - record demo, `3` - both |
-| cg_useScreenshotJPEG | `integer` | `0-1` | `1` | Use JPEG for auto action screenshots |
 | cg_altScoreboard | `integer` | `0-2` | `0` | Draw alternative scoreboard. `1` - default font, `2` - new font |
 | cg_altScoreboardColor | `string` | `N/A` | `default` | Alternative scoreboard color |
 | cg_altScoreboardAlpha | `float` | `0.0-1.0` | `0.6` | Alternative scoreboard opacity (alt color should not be default) |
